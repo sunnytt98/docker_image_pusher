@@ -1,1 +1,1 @@
-hadonga/autopointllm:0.1
+ubuntu:20.04

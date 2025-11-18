@@ -1,1 +1,2 @@
---platform linux/amd64 nvidia/cuda:12.2.2-devel-ubi8
+# --platform linux/amd64 nvidia/cuda:12.2.2-devel-ubi8
+pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel

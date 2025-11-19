@@ -1,3 +1,4 @@
 --platform linux/amd64 nvidia/cuda:12.1.0-devel-ubuntu20.04
 cvat/server:dev
+heartexlabs/label-studio
 # pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel

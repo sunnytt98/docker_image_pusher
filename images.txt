@@ -1,5 +1,5 @@
 --platform linux/amd64 nvidia/cuda:12.1.0-devel-ubuntu20.04
---platform linux/arm64 jellyfin/jellyfin:unstable
+--platform linux/amd64 jellyfin/jellyfin:unstable
 jellyfin/jellyfin:2025111705-arm64
 cvat/server:dev
 heartexlabs/label-studio

@@ -5,3 +5,4 @@ cvat/server:dev
 heartexlabs/label-studio
 ultralytics/ultralytics:latest-jetson-jetpack6
 # pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
+linuxserver/qbittorrent

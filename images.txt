@@ -1,6 +1,7 @@
 --platform linux/amd64 nvidia/cuda:12.1.0-devel-ubuntu20.04
 --platform linux/amd64 jellyfin/jellyfin:unstable
 jellyfin/jellyfin:2025111705-arm64
+maxiobe123/bevformer:base-cuda118
 cvat/server:dev
 heartexlabs/label-studio
 ultralytics/ultralytics:latest-jetson-jetpack6

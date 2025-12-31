@@ -8,3 +8,4 @@ ultralytics/ultralytics:latest-jetson-jetpack6
 ruoqian/bevformer:ngc2012_latest
 # pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
 linuxserver/qbittorrent
+3846chs/centerpoint:dynamic

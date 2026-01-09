@@ -1,6 +1,6 @@
 --platform linux/amd64 nvidia/cuda:12.1.0-devel-ubuntu20.04
 --platform linux/amd64 jellyfin/jellyfin:unstable
---platform linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
+--platform linux/arm64 minio/minio:RELEASE.2024-12-18T13-15-44Z
 jellyfin/jellyfin:2025111705-arm64
 maxiobe123/bevformer:base-cuda118
 cvat/server:dev

@@ -3,6 +3,7 @@
 --platform linux/arm64 minio/minio:RELEASE.2024-12-18T13-15-44Z
 gzupark/grounded_sam2:1.0
 nipun137/cuda10.2:latest
+imok2/cuda11.3:pytorch1.7.1
 jamesrosstwo/grounded_sam2:cu128_patch
 jellyfin/jellyfin:2025111705-arm64
 maxiobe123/bevformer:base-cuda118

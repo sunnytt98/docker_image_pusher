@@ -1,6 +1,7 @@
 --platform linux/amd64 nvidia/cuda:12.1.0-devel-ubuntu20.04
 --platform linux/amd64 jellyfin/jellyfin:unstable
 --platform linux/arm64 minio/minio:RELEASE.2024-12-18T13-15-44Z
+openexplorer/ai_toolchain_ubuntu_20_x3j5_gpu
 3846chs/centerpoint:dynamic
 gzupark/grounded_sam2:1.0
 nipun137/cuda10.2:latest
